@@ -101,3 +101,12 @@ height: 400px;
 #aboutayaka {
 font-family: comic sans ms;
 }
+
+.inspo {
+transition: transform .2s;
+border: 10px solid #AAAAAA;
+}
+
+.inspo:hover {
+transform: scale(0.9);
+}
