@@ -1,0 +1,81 @@
+body {
+text-align:center;
+background: linear-gradient (#dfe6f2 0%, #898e96 100%)
+}
+
+img {   
+height: 250px;
+border:solid;
+padding:10px;
+border-width:5px;
+border-radius: 15px;
+margin-top: 50px;
+}
+
+#Hobby {
+font-size:30px;
+font-family: 'Slabo 27px', serif;
+}
+
+h2 {
+font-size:26px;
+font-family: 'Caveat', cursive;
+margin-bottom:20px;
+}
+
+h4 {
+font-family:comic sans ms;
+font-size: 15px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    top: 10px;
+right: 30px;
+margin-top: 0px;
+    z-index: 10;
+    cursor: pointer;
+float: right
+}
+
+.links {
+    display: inline;
+font-size: 20px;
+font-weight: 600;
+}
+
+.links:hover {
+background-color: greenyellow;
+}
+
+#part1 {
+margin-right: 20px;
+margin-left: 20px;
+}
+
+#part2 {
+margin-right: 20px;
+margin-left: 20px;
+}
+
+#part3 {
+margin-right: 20px;
+margin-left: 20px;
+}
+
+#part4 {
+margin-right: 20px;
+margin-left: 20px;
+}
+
+#part5 {
+margin-right: 20px;
+margin-left: 20px;
+}
+
+
+
