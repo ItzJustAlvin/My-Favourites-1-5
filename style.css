@@ -54,7 +54,8 @@ font-weight: 600;
 }
 
 .links:hover {
-background-color: greenyellow;
+background-color:gainsboro;
+font-size: 23px;    
 }
 
 #part1 {
@@ -109,4 +110,19 @@ border: 10px solid #AAAAAA;
 
 .inspo:hover {
 transform: scale(0.9);
+}
+
+h1 {
+font-family: 'Merienda', cursive;
+font-size: 32px;
+}
+
+#email {
+color: aliceblue;
+font-size: 25px;
+}
+
+#insta {
+color: aliceblue;
+font-size: 25px;
 }
