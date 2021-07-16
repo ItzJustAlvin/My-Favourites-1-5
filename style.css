@@ -1,6 +1,10 @@
 body {
 text-align:center;
-background: linear-gradient (#dfe6f2 0%, #898e96 100%)
+background: linear-gradient(#dfe6f2 0%, #898e96 100%)
+}
+
+html {
+scroll-behavior: smooth;
 }
 
 img {   
@@ -21,6 +25,7 @@ h2 {
 font-size:26px;
 font-family: 'Caveat', cursive;
 margin-bottom:20px;
+text-decoration: underline;
 }
 
 h4 {
@@ -34,7 +39,7 @@ font-size: 15px;
     position: fixed;
     background-color: white;
     width: 100%;
-    top: 10px;
+    top: 0px;
 right: 30px;
 margin-top: 0px;
     z-index: 10;
@@ -77,5 +82,22 @@ margin-right: 20px;
 margin-left: 20px;
 }
 
+#tracing {
+font-family: 'Caveat', cursive;
+}
 
+.art {
+height: 300px;
+}
 
+h3 {
+font-family: 'Slabo 27px', serif;
+}
+
+#ayaka {
+height: 400px;
+}
+
+#aboutayaka {
+font-family: comic sans ms;
+}
